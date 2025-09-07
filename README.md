@@ -29,6 +29,8 @@ Check out the [Convex docs](https://docs.convex.dev/) for more information on ho
 * Check out the [Hosting and Deployment](https://docs.convex.dev/production/) docs for how to deploy your app
 * Read the [Best Practices](https://docs.convex.dev/understanding/best-practices/) guide for tips on how to improve you app further
 
+* try app:- https://festive-husky-405.convex.app/
+
 ## HTTP API
 
 User-defined http routes are defined in the `convex/router.ts` file. We split these routes into a separate file from `convex/http.ts` to allow us to prevent the LLM from modifying the authentication routes.
